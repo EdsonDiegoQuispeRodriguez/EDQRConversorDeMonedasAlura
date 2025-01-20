@@ -37,17 +37,13 @@ En resumen, este conversor de monedas es una herramienta práctica y confiable p
 
 El proyecto está actualmente en fase de **despliegue**.
 
-## 📜 Licencia
-
-Este proyecto está bajo la licencia [MIT](./LICENSE). Para más detalles, consulta el archivo LICENSE.
-
 ## 📊 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras, por favor crea un *pull request* o abre un *issue* para discutirlo.
 
 ## 📈 Contacto
 
-Si tienes preguntas o comentarios sobre el proyecto, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/edson-quispe-rodriguez/) o [GitHub](https://github.com/EdsonQuispe).
+Si tienes preguntas o comentarios sobre el proyecto, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/edsondiegoquisperodriguez/) o [GitHub](https://github.com/EdsonDiegoQuispeRodriguez).
 
 ---
 
